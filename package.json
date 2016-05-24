@@ -1,0 +1,30 @@
+{
+  "name": "clout-i18n",
+  "version": "0.0.1",
+  "description": "Clout module to implement i18n",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clout-js-modules/clout-i18n.git"
+  },
+  "keywords": [
+    "clout",
+    "clout-js",
+    "module",
+    "express",
+    "i18n"
+  ],
+  "author": "Muhammad Dadu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clout-js-modules/clout-i18n/issues"
+  },
+  "homepage": "https://github.com/clout-js-modules/clout-i18n#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "i18n": "^0.8.2"
+  }
+}
